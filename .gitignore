@@ -1,0 +1,4 @@
+.idea
+node_modules
+/KataTypescript.iml
+/package-lock.json
